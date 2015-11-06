@@ -1,0 +1,47 @@
+#target1{
+  height:120px;
+  color:#900090;
+  font-size:16pt;
+  font-weight:bold;
+  background-color:#aaf;
+  opacity:.9;
+  border-radius:5%;
+  border-width:2px;
+  
+  
+}
+#target2{
+  height:120px;
+  color:#900090;
+  font-size:16pt;
+  font-weight:bold;
+  background-color:#ff9;
+  opacity:.9;
+  border-radius:5%;
+  border-width:1px;
+  
+}
+#target3{
+  height:120px;
+  color:#008000;
+  font-size:16pt;
+  font-weight:bold;
+  background-color:#fff;
+  opacity:.9;
+  border-radius:5%;
+  border-width:1px;
+}
+#temperature_celcius{
+  font-size:50pt;
+  font-weight:bold;
+  color:white;
+}
+
+body{
+  background-color:#08f;
+  //background:url("http://bit.ly/1UaRBYZ");
+}
+#image{
+  height:80px;
+  width:auto;
+}
